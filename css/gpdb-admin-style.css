@@ -1,0 +1,27 @@
+.gpdb-settings-page p {
+    margin-bottom: 30px;
+}
+.gpdb-settings-page label {
+    display: block;
+
+}
+.gpdb-settings-page input[type="text"] {
+    margin-bottom: 7px;
+
+}
+.gpdb-settings-page .gpdb-submit-btn {
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 7px;
+}
+.gpdb-settings-page .gpdb-error {
+	color: red;
+}
+.gpdb-settings-page hr {
+	border-color: white;
+    margin-bottom: 10px;
+    margin-top: 50px;
+}
+.gpdb-settings-page .gpdb-success {
+	color: green;
+}
